@@ -116,3 +116,6 @@ These filters provide users the ability to customize the view and explore the da
 - The dashboard is interactive, allowing users to drill down into specific time periods, aircraft types, traveller types, and more.
 - Insights from the dashboard can be used to guide **service improvements**, optimize **aircraft deployment**, and **tailor regional services**.
 
+## Acknowledgments
+
+Thanks to **Mo Chen** for the ideas from his GitHub project that inspired this analysis.
